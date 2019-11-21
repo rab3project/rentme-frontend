@@ -29,13 +29,10 @@
             ],
             "styles": [
               "src/styles.scss",          
-    "node_modules/bootstrap/dist/css/bootstrap.css",
-    "node_modules/font-awesome/css/fornt-awesome.css",
+    
             ],
             "scripts": [
-              "node_modules/jquery/dist//jquery.js",
-              "node_modules/popper.js/dist/umd/popper.js",
-              "node_modules/bootstrap/dist/jquery.js"
+              
             ]
           },
           "configurations": {
